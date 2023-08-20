@@ -1,0 +1,5 @@
+{{#user}}
+Name: Rajat Kumar Singh
+Skills: Manual testing, JAVA, Automation testing,API testing
+Email: rajatkumar0997@gmail.com
+{{/user}}
